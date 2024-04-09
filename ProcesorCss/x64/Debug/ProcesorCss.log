@@ -1,4 +1,0 @@
-﻿  Main.cpp
-C:\Users\Wazowski\OneDrive\Pulpit\Programowanie\Projekty\ProcesorCss\Main.cpp(161,41): warning C4267: "argument": konwersja z "size_t" do "const int", możliwa utrata danych
-C:\Users\Wazowski\OneDrive\Pulpit\Programowanie\Projekty\ProcesorCss\Main.cpp(162,27): warning C4267: "argument": konwersja z "size_t" do "const int", możliwa utrata danych
-  ProcesorCss.vcxproj -> C:\Users\Wazowski\OneDrive\Pulpit\Programowanie\Projekty\ProcesorCss\x64\Debug\ProcesorCss.exe
